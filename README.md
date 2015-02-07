@@ -1,6 +1,7 @@
 # PHP-calendar
 Simple Calendar class
 
+
 ##usage
 
 ```php
@@ -11,7 +12,7 @@ $calendar = new Calendar(4, 2015);
 print_r($calendar->getCalendar());
 ```
 
-output
+###output
 ```
 Array
 (
